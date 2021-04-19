@@ -1,9 +1,9 @@
 clusterPatches:
 - target:
      kind: Cluster
-     name: saqeeb-006
+     name: aniket-kind
   kustomizePatch: ./cluster1/
 - target:
      kind: Cluster
-     name: saqeeb-007
+     name: aniket-kind-1
   kustomizePatch: ./cluster2/
