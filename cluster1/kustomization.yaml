@@ -22,6 +22,10 @@ patchesStrategicMerge:
           resources:
             namespaces:
             - demo1
+            - demo2
+            - test
+            - default
+            - nirmata
         validate:
           message: "The label `app.kubernetes.io/name` is required."
           pattern:
