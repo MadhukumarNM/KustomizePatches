@@ -1,7 +1,7 @@
 apiVersion: kyverno.io/v1
 kind: ClusterPolicy
 metadata:
-  name: require-labels-demo
+  name: aniket-require-labels-demo
   annotations:
     policies.kyverno.io/category: Best Practices
     policies.kyverno.io/description: >-
