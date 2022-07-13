@@ -9,7 +9,7 @@ patchesStrategicMerge:
       annotations:
         policies.kyverno.io/category: Best Practices
         policies.kyverno.io/description: >-
-          Saqeeb demo1 test - Define and use labels that identify semantic attributes of your application or Deployment.
+          Madhu demo1 test - Define and use labels that identify semantic attributes of your application or Deployment.
     spec:
       validationFailureAction: enforce
       rules:
