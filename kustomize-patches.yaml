@@ -5,5 +5,5 @@ clusterPatches:
   kustomizePatch: ./cluster1/
 - target:
      kind: Cluster
-     name: cluster-01
+     name: cluster-02
   kustomizePatch: ./cluster2/
